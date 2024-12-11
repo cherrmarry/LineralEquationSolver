@@ -1,0 +1,14 @@
+C:\Users\masya\source\repos\LinearEquationsSolver\LinearEquationsSolver\bin\Debug\LinearEquationsSolver.exe.config
+C:\Users\masya\source\repos\LinearEquationsSolver\LinearEquationsSolver\bin\Debug\LinearEquationsSolver.exe
+C:\Users\masya\source\repos\LinearEquationsSolver\LinearEquationsSolver\bin\Debug\LinearEquationsSolver.pdb
+C:\Users\masya\source\repos\LinearEquationsSolver\LinearEquationsSolver\obj\Debug\LinearEquationsSolver.csproj.AssemblyReference.cache
+C:\Users\masya\source\repos\LinearEquationsSolver\LinearEquationsSolver\obj\Debug\MainWindow.baml
+C:\Users\masya\source\repos\LinearEquationsSolver\LinearEquationsSolver\obj\Debug\MainWindow.g.cs
+C:\Users\masya\source\repos\LinearEquationsSolver\LinearEquationsSolver\obj\Debug\App.g.cs
+C:\Users\masya\source\repos\LinearEquationsSolver\LinearEquationsSolver\obj\Debug\LinearEquationsSolver_MarkupCompile.cache
+C:\Users\masya\source\repos\LinearEquationsSolver\LinearEquationsSolver\obj\Debug\LinearEquationsSolver.g.resources
+C:\Users\masya\source\repos\LinearEquationsSolver\LinearEquationsSolver\obj\Debug\LinearEquationsSolver.Properties.Resources.resources
+C:\Users\masya\source\repos\LinearEquationsSolver\LinearEquationsSolver\obj\Debug\LinearEquationsSolver.csproj.GenerateResource.cache
+C:\Users\masya\source\repos\LinearEquationsSolver\LinearEquationsSolver\obj\Debug\LinearEquationsSolver.csproj.CoreCompileInputs.cache
+C:\Users\masya\source\repos\LinearEquationsSolver\LinearEquationsSolver\obj\Debug\LinearEquationsSolver.exe
+C:\Users\masya\source\repos\LinearEquationsSolver\LinearEquationsSolver\obj\Debug\LinearEquationsSolver.pdb
